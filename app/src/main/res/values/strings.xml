@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IdealWeight</string>
+    <string name="main_activity_title">IW Home</string>
+    <string name="calc_title">IW Calculator</string>
+    <string name="api_title">IW API</string>
+    <string name="enter_height">Enter Height :</string>
+    <string name="call_api">Call API</string>
+</resources>
